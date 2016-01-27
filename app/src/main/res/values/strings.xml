@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EvenTip</string>
+
+    <string name="bill_amount">Your bill:</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_amount">Total + Tip:</string>
+    <string name="tip_percent">Tip Percent:</string>
+    <string name="percentage">0 %</string>
+</resources>
